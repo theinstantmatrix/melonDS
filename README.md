@@ -1,3 +1,10 @@
+Since 2025-11-18, melonDS now has official binaries for Windows ARM64/AArch64.
+
+melonDS (with unofficial binaries for Windows ARM64/AArch64, fork of [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS)).  
+Old downloads (1.0 only) are hosted at the [releases](https://github.com/theinstantmatrix/melonDS/releases) section.
+
+---
+
 <p align="center"><img src="https://raw.githubusercontent.com/melonDS-emu/melonDS/master/res/icon/melon_128x128.png"></p>
 <h2 align="center"><b>melonDS</b></h2>
 <p align="center">
